@@ -20,6 +20,10 @@ Example project pages built using this template are:
 - https://vision.huji.ac.il/deepsim
 
 
+## Local Preview
+
+Simply open up the [index.html](index.html) in a browser.
+
 
 ## Start using the template
 To start using the template click on `Use this Template`.
